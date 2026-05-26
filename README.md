@@ -1,6 +1,8 @@
+
+
 # Student Form – Jetpack Compose
 
-![](https://raw.githubusercontent.com/AlexMigriauli/assignment-N2/master/rr.mov)
+<video src="https://raw.githubusercontent.com/AlexMigriauli/assignment-N2/master/rr.mov" controls></video>
 
 A custom-styled Android application built with **Jetpack Compose** and **Material 3** that collects student information through a polished, non-default UI.
 
